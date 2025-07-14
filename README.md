@@ -1,1 +1,1 @@
-# Esses códigos fazem parte do meu estudo em cybersegurança, sendo criados para finalizade de estudo a testes em máquinas virtuais na plataforma de aprendizagem tryhackme.com. Não me responsabilizo pelo mal uso desses códigos. O intuito deles é apenas educativo.
+This directory contains a directory that contains my personal projects (PersonalProjects) and another one for tools used in my studies on TryHackme.com (Tryhackme Tools).
